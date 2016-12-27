@@ -1,3 +1,12 @@
+.navbar-default .navbar-nav > .active > a, 
+ .navbar-default .navbar-nav > .active > a:hover, 
+ .navbar-default .navbar-nav > .active > a:focus {
+      color: #000;
+      background: #d65c14;
+ }
+
+
+
 @charset "UTF-8";
 /* -------------------------------------
  * Fonts
